@@ -21,9 +21,9 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "sis-I/library_management.git": {
+        "sis-I/library_management": {
           "permissions": {
-            "contents": "write"
+            "issues": "write"
           }
         }
       }
